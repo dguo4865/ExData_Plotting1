@@ -1,5 +1,5 @@
 # Exploratory Data Analysis Course Project 1
-# Scrtips to create plot1.png
+# Scrtips to create plot2.png
 
 setwd("C:/WorkSpace/DS/C4W1/ExData_Plotting1")
 
